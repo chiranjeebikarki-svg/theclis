@@ -24,11 +24,5 @@ def password_checker():
                 print(f" your password is missing: {key}, making it weak.")
 
 password_checker()
-
-
-    
-
-
-
     
 password_checker()

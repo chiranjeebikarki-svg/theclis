@@ -18,7 +18,7 @@ def password_checker():
 
         for key, passed in checklist.items():
             if not passed:
-                print(f" your password is missing: {key}, hence making it weak or moderate and not strong.")
+                print(f" your password is missing: {key}, hence making it weak.")
 
 password_checker()
 
